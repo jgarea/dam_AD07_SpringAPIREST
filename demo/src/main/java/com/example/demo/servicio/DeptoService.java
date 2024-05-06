@@ -1,7 +1,9 @@
-package com.example.demo;
+package com.example.demo.servicio;
 
 
 import com.example.demo.*;
+import com.example.demo.entidad.Depto;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

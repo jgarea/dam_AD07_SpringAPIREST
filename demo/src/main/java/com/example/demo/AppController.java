@@ -5,6 +5,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import com.example.demo.entidad.Depto;
+import com.example.demo.servicio.DeptoService;
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.ArrayList;
